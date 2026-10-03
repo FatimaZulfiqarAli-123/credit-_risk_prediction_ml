@@ -492,28 +492,11 @@ random_state=0
 
 The same preprocessing and feature-engineering steps are applied consistently to the training and test datasets.
 
----
-
-# 🚀 Future Improvements
-
-Several improvements can be explored in future iterations:
-
-* More extensive feature engineering
-* Advanced cross-validation
-* Stratified K-Fold validation
-* Optuna-based hyperparameter optimization
-* Feature importance analysis
-* SHAP-based model interpretation
-* More sophisticated ensemble methods
-* Probability calibration
-* Model stacking
-* Out-of-fold predictions
-* Leakage-safe preprocessing pipelines
 
 ---
 
 
-# 🏆 Conclusion
+#  Conclusion
 
 This project implements a complete machine learning pipeline for credit-risk prediction, beginning with raw applicant data and progressing through preprocessing, feature engineering, model development, evaluation, tuning, ensemble learning, and final submission generation.
 
